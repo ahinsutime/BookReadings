@@ -8,7 +8,7 @@
 - Pages: 488 (ebook)
 - Time to read: 7 Days
 - Image from https://epreview.yes24.com/preview/viewer/viewer.html?ebookcode=1539035&dm=yes24.com
-![Alt text](image.png)
+![Alt text](human_element.png)
 
 ## Summary
 - 제가 생각하는 이 책의 주제는 성공적인 의사 결정을 위해 추진력에만 집중하는 실수를 피하고 정서적 마찰력을 줄이는 것도 고려해야 한다는 점이라고 생각합니다.
